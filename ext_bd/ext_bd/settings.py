@@ -45,7 +45,7 @@ REST_FRAMEWORK = {
 
 
 #check this befor deploying
-CORS_ALLOWED_ORIGINS = [  "http://localhost:5173","https://inspiring-kangaroo-6b7757.netlify.app" ]
+CORS_ALLOWED_ORIGINS = [  "http://localhost:5173","https://pardhus-expense-tracker.netlify.app" ]
 
 
 
